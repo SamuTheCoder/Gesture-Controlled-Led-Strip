@@ -1,0 +1,7 @@
+/project/build
+
+# Ignore .vscode files everywhere
+.vscode/
+
+# Ignore managed_components directory
+managed_components/
